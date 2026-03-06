@@ -1,12 +1,12 @@
 ![Banner Image](image/EasyLife.jpg)
 
-## Hi there! 👋 I'm Stephen Gusse, a passionate Software Engineer.
+## Hi there! 👋 I'm Easy Life, a passionate Software Engineer.
 
-🚀 With over a decade of experience, I've honed my skills in crafting top-notch proprietary enterprise software products. My journey is all about utilizing diverse technologies to design, develop, and deploy enterprise-class solutions while gaining deep insights into customers' needs and product usage.
+🚀 I've honed my skills in crafting top-notch proprietary enterprise software products. My journey is all about utilizing diverse technologies to design, develop, and deploy enterprise-class solutions while gaining deep insights into customers' needs and product usage.
 
 👨‍🏭 Leading and mentoring teams, I establish coding standards and UI best practices. My extensive app development background ensures I'm always at the forefront of innovative UI engineering.
 
-🛠️ My tech toolkit includes NextJS, React, React Native, NodeJS, Redux/RTK Toolkit, and Angular. I thrive in Agile environments, where I've spent more than 10 years crafting accessible UIs for web applications, emphasizing iterations, continuous integration, and unwavering quality.
+🛠️ My tech toolkit includes NextJS, React, React Native, NodeJS, Redux/RTK Toolkit, and Angular. I thrive in Agile environments, where I've spent more than 5 years crafting accessible UIs for web applications, emphasizing iterations, continuous integration, and unwavering quality.
 
 🔐 Industry Authentication standards like oAuth2? Yep, I've got you covered. Incorporating Authorization aspects into the UI framework is just another day at the office for me.
 
@@ -14,10 +14,10 @@
 
 Let's connect and build the future together! 🌟
 
-[![GitHub Gusse](https://img.shields.io/github/followers/easy-life93?label=follow&style=social)](https://github.com/easy-life93)
+[![GitHub Easy Life](https://img.shields.io/github/followers/easy-life93?label=follow&style=social)](https://github.com/easy-life93)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/your-profile)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=social&logo=twitter)](https://twitter.com/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gusse-white?style=flat-square&logo=gmail)](mailto:gusse2593@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gusse-white?style=flat-square&logo=gmail)](mailto:info@webwise.co.site)
 
 ### Languages/Frameworks I'm good at:
 
