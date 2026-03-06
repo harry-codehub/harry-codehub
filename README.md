@@ -191,8 +191,8 @@ Let's connect and build the future together! 🌟
 
 ---
 
-- 🔭 I’m currently working as **Sr. Software Engineer @ Tech9**
-- 🌱 I’m currently learning **Blockchain**
+- 🔭 I’m currently working as **Sr. Software Engineer @ Panoptyc**
+- 🌱 I’m interested in **Blockchain & Web3**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Web Development**
 
