@@ -17,7 +17,7 @@ Let's connect and build the future together! 🌟
 [![GitHub Easy Life](https://img.shields.io/github/followers/easy-life93?label=follow&style=social)](https://github.com/easy-life93)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/your-profile)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=social&logo=twitter)](https://twitter.com/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gusse-white?style=flat-square&logo=gmail)](mailto:info@webwise.co.site)
+[![Gmail](https://img.shields.io/badge/Gmail-white?style=flat-square&logo=gmail)](mailto:info@webwise.co.site)
 
 ### Languages/Frameworks I'm good at:
 
