@@ -12,6 +12,9 @@ Results-driven full-stack professional with 10 years of experience and a passion
 
 Adept at implementing Agile methodologies to deliver high-quality software solutions within specified timelines. Possess strong problem-solving skills and a collaborative approach, ensuring effective communication within cross-functional teams.
 
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harry-codehub&theme=tokyonight" width="100%" />
+
 ---
 
 ### 💻 Technical Skills
@@ -234,7 +237,12 @@ Jira • Postman • Swagger • Confluence • Slack
 
 ---
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=harry-codehub&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+### 📊 GitHub Stats:
+
+<div align="center">
+  <img width="50%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=harry-codehub&layout=compact&theme=radical&hide_border=true&langs_count=8&title_color=00FF41&text_color=C9D1D9"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harry-codehub&theme=radical" />
+</div>
 
 ---
 
