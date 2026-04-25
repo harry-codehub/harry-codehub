@@ -1,6 +1,6 @@
 ![Professional Java Engineer Banner](https://img.shields.io/badge/Professional%20Java%20Engineer-10%2B%20Years%20Experience-blue?style=for-the-badge&logo=java&logoColor=white)
 
-##  Senior Software Engineer Java/Spring/Scala/PostgreSQL
+##  Senior Software Engineer Java/Spring/Scala
 
 I'm a seasoned software engineer with **10+ years of expertise** in designing and developing state-of-the-art web and mobile applications. Passionate about crafting high-performance, scalable enterprise solutions using modern technologies and best practices.
 
