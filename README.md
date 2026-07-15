@@ -1,4 +1,4 @@
-![Professional Software Engineer Banner](https://img.shields.io/badge/Professional%20Software%20Engineer-10%2B%20Years%20Experience-blue?style=for-the-badge&logo=Angluar&logoColor=white)
+![Professional Software Engineer Banner](https://img.shields.io/badge/Senior%20Software%20Engineer-10%2B%20Years%20Experience-blue?style=for-the-badge&logo=Angluar&logoColor=white)
 
 ##  Senior Software Engineer Angular/.NET/Node.js/Python
 
@@ -19,7 +19,7 @@ Delivered and maintained mission-critical banking platforms, including ATM secur
 ### 📞 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-harry--codehub-blue?style=flat-square&logo=github)](https://github.com/harry-codehub)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-eulessit-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fernando-ribeiro-463b853aa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fernando-ribeiro-463b853aa-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fernando-ribeiro-463b853aa)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:fernandodanilo42y@gmail.com)
 
 ---
