@@ -1,6 +1,6 @@
 ![Professional Software Engineer Banner](https://img.shields.io/badge/Senior%20Software%20Engineer-10%2B%20Years%20Experience-blue?style=for-the-badge&logo=Angluar&logoColor=white)
 
-##  Senior Software Engineer Angular/.NET/Node.js/Python
+##  Senior Software Engineer - Angular/.NET/Node.js/Python
 
 Senior Full Stack Software Engineer with 10+ years of experience designing, developing, and operating enterprise applications across frontend, backend, and distributed systems. Specialized in creating scalable solutions with modern frontend architectures, Angular, .NET (C#), Node.js, React, and PostgreSQL while improving performance, maintainability, and reliability.
 
