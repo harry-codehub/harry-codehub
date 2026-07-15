@@ -1,4 +1,4 @@
-![Professional Java Engineer Banner](https://img.shields.io/badge/Professional%20Java%20Engineer-10%2B%20Years%20Experience-blue?style=for-the-badge&logo=java&logoColor=white)
+![Professional Software Engineer Banner](https://img.shields.io/badge/Professional%20Software%20Engineer-10%2B%20Years%20Experience-blue?style=for-the-badge&logo=Angluar&logoColor=white)
 
 ##  Senior Software Engineer Angular/.NET/Node.js/Python
 
