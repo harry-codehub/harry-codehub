@@ -3,9 +3,10 @@
 ##  Senior Software Engineer Angular/.NET/Node.js/Python
 
 Senior Full Stack Software Engineer with 10+ years of experience designing, developing, and operating enterprise applications across frontend, backend, and distributed systems. Specialized in creating scalable solutions with modern frontend architectures, Angular, .NET (C#), Node.js, React, and PostgreSQL while improving performance, maintainability, and reliability.
+
 Designed and delivered end-to-end software solutions by defining application architecture, developing reusable components, building APIs, optimizing databases, and integrating cloud-based services. Experienced in establishing scalable system designs, improving engineering practices, and supporting applications throughout their lifecycle.
-Delivered and maintained mission-critical banking platforms, including ATM security and video investigation systems, where reliability and operational stability are essential. Investigated complex production issues, identified root causes, implemented long-term improvements, and collaborated with engineering and business teams to build 
-secure, resilient, and high-performing systems.
+
+Delivered and maintained mission-critical banking platforms, including ATM security and video investigation systems, where reliability and operational stability are essential. Investigated complex production issues, identified root causes, implemented long-term improvements, and collaborated with engineering and business teams to build secure, resilient, and high-performing systems.
 
 ---
 
