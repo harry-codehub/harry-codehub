@@ -1,12 +1,11 @@
 ![Professional Java Engineer Banner](https://img.shields.io/badge/Professional%20Java%20Engineer-10%2B%20Years%20Experience-blue?style=for-the-badge&logo=java&logoColor=white)
 
-##  Senior Software Engineer Java/Spring/Scala
+##  Senior Software Engineer Angular/.NET/Node.js/Python
 
-I'm a seasoned software engineer with **10+ years of expertise** in designing and developing state-of-the-art web and mobile applications. Passionate about crafting high-performance, scalable enterprise solutions using modern technologies and best practices.
-
-Results-driven full-stack professional with 10 years of experience and a passion for state-of-the-art web and mobile application development. Proficient across the entire development lifecycle, specializing in **Java, Spring Boot, Scala, Python, Node, SQL, React, Angular, Vue, Svelte and AWS**. 
-
-Adept at implementing Agile methodologies to deliver high-quality software solutions within specified timelines. Possess strong problem-solving skills and a collaborative approach, ensuring effective communication within cross-functional teams.
+Senior Full Stack Software Engineer with 10+ years of experience designing, developing, and operating enterprise applications across frontend, backend, and distributed systems. Specialized in creating scalable solutions with modern frontend architectures, Angular, .NET (C#), Node.js, React, and PostgreSQL while improving performance, maintainability, and reliability.
+Designed and delivered end-to-end software solutions by defining application architecture, developing reusable components, building APIs, optimizing databases, and integrating cloud-based services. Experienced in establishing scalable system designs, improving engineering practices, and supporting applications throughout their lifecycle.
+Delivered and maintained mission-critical banking platforms, including ATM security and video investigation systems, where reliability and operational stability are essential. Investigated complex production issues, identified root causes, implemented long-term improvements, and collaborated with engineering and business teams to build 
+secure, resilient, and high-performing systems.
 
 ---
 
@@ -19,8 +18,8 @@ Adept at implementing Agile methodologies to deliver high-quality software solut
 ### 📞 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-harry--codehub-blue?style=flat-square&logo=github)](https://github.com/harry-codehub)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-eulessit-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/eulessit)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:info@webwise.co.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-eulessit-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fernando-ribeiro-463b853aa)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:fernandodanilo42y@gmail.com)
 
 ---
 
