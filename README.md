@@ -12,7 +12,7 @@ Maintained continuity of mission-critical testing as a Systems Test Engineer ove
 
 ### 📊 GitHub Stats:
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=USERNAME&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harry-codehub&theme=tokyonight" width="100%" />
 
 ---
 
